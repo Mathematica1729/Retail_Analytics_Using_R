@@ -26,11 +26,13 @@ The final task involved synthesizing insights and forming strategic recommendati
 
 ## Repository Content
 
-- `Data_Prep_Customer_Analytics.pdf`
-- `Experimentation_Uplift_Testing.pdf`
-- `Analytics_Commercial_Application.pdf`
-- `Task1_RMarkdown.Rmd`
-- `Task2_RMarkdown.Rmd`
+- `QVI_transaction_data.csv`
+- `QVI_purchase_behaviour.csv`
+- `Initial_Findings_Task_1.pdf`
+- `Task2.pdf`
+- `Final_Report.pdf`
+- `Initial findings.Rmd`
+- `Task2.Rmd`
 
 ## Installation
 
